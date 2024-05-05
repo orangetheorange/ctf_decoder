@@ -3,11 +3,11 @@
 This is a decoder for CTF. 
 This tool contains three tools: 
 
-** ASCII decoder **
+**ASCII decoder**
 
-** BASE64 decoder **
+**BASE64 decoder**
 
-** hexadecimal decoder **
+**hexadecimal decoder**
 
 
 ## Requirements
